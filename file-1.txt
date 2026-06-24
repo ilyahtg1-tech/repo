@@ -1,0 +1,2 @@
+Это файл file-1.txt на ветке branch-1
+Изменение в file-1.txt на ветке branch-1
